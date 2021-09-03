@@ -24,3 +24,5 @@ jobs:
         with:
           name: http-server
           path: dist/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
