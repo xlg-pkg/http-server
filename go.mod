@@ -1,3 +1,3 @@
-module github.com/xlg-pkg/http-server
+module github.com/xlgmokha/http-server
 
 go 1.17
